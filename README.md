@@ -1,3 +1,5 @@
+<img width="1433" height="605" alt="Old-Blog-Banners-Purplescape-49" src="https://github.com/user-attachments/assets/42c2afa8-7b70-4459-809d-ad4d654956c3" />
+
 # Exploratory Data Analysis of United Nation Global Terrorism
 
 ## Project Overview
@@ -9,6 +11,10 @@ The main objective of this project is to understand the historical trends of ter
 This analysis helps organizations, policymakers, and security agencies make better decisions for risk assessment, resource allocation, and preventive strategies.
 
 ---
+<img width="1170" height="629" alt="image" src="https://github.com/user-attachments/assets/bc2cc04a-4191-4e8f-ae9e-abfa6c8caff1" />
+
+---
+
 
 ## Dataset Details
 
